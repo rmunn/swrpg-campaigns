@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <Character xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <LastChanged>2016-01-29T20:42:51.363</LastChanged>
+  <LastChanged>2016-01-30T01:08:02.947</LastChanged>
   <NotPersisted>false</NotPersisted>
   <FileName>Char1.xml</FileName>
   <Name />
   <Key>290cce4d-5ce6-4ba3-8888-145d31b5ef4c</Key>
   <Description>
     <CharName>Torkel Krask</CharName>
-    <PlayerName>Marcus</PlayerName>
+    <PlayerName>Marcus Rice</PlayerName>
     <GenderValue>cdgMale</GenderValue>
     <Age>56</Age>
     <Height>6'4"</Height>
@@ -1838,7 +1838,7 @@
   <Armor>
     <CharArmor>
       <ItemKey>HC</ItemKey>
-      <Key>e4de5868-fe01-4622-a499-603dbc7d4d1f</Key>
+      <Key>645003f2-99e0-487a-9260-fb28f8283f21</Key>
       <Equipped>true</Equipped>
       <Held>true</Held>
       <Count>1</Count>
@@ -1853,7 +1853,7 @@
   <Gear>
     <CharGear>
       <ItemKey>COMLINKH</ItemKey>
-      <Key>0abc1540-eed1-4f80-8332-7d707817bcca</Key>
+      <Key>1024e3df-b514-4c46-a9a3-3d7970a5b12a</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1866,7 +1866,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>HOLO</ItemKey>
-      <Key>c528858e-9c77-4709-8561-ba9257784231</Key>
+      <Key>54e88c7a-51bf-4c17-9c0d-17f02d254172</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1879,7 +1879,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>CYREPLIMB</ItemKey>
-      <Key>9e35f35d-b6dd-4025-9569-ad43eace9889</Key>
+      <Key>906f3e04-b60a-447f-86b4-e9a3163f9deb</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1892,7 +1892,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>HSCAN</ItemKey>
-      <Key>af462a62-a4d7-4501-b9bf-ba5482ec4043</Key>
+      <Key>c8d135fc-9240-4617-a778-f6537318669e</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1905,7 +1905,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>STAG</ItemKey>
-      <Key>e98337a4-154a-469c-9829-94e5c3a3ead2</Key>
+      <Key>d5e6910e-9e07-406c-b26a-729d8816c920</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>2</Count>
@@ -1918,7 +1918,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>COMMSCRAM</ItemKey>
-      <Key>fde2f98f-769a-4ded-90bf-31a4b2b895bc</Key>
+      <Key>d9ca5323-1cfe-48ef-b2a7-7240cbfa12a1</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1931,7 +1931,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>AVASPDOSE</ItemKey>
-      <Key>0a0c2bde-6464-40e5-868d-fa6f1a2d7024</Key>
+      <Key>dce3ec85-7951-4e1e-87f1-64a4cd6b88b4</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>

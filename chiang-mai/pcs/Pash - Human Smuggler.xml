@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Character xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <LastChanged>2016-01-29T20:42:17.153</LastChanged>
+  <LastChanged>2016-01-30T01:07:36.71</LastChanged>
   <NotPersisted>false</NotPersisted>
   <FileName>Char11.xml</FileName>
   <Name />
@@ -1810,7 +1810,7 @@
   <Armor>
     <CharArmor>
       <ItemKey>HC</ItemKey>
-      <Key>621084dd-e377-457e-b9d8-aef9ddf82b6e</Key>
+      <Key>6d9c1bb1-2d81-4733-8615-df5f336055ae</Key>
       <Equipped>true</Equipped>
       <Held>true</Held>
       <Count>1</Count>
@@ -1825,7 +1825,7 @@
   <Gear>
     <CharGear>
       <ItemKey>COMLINKH</ItemKey>
-      <Key>54d6679b-4e82-4ef3-89cf-a318a1ba2e4a</Key>
+      <Key>6a95b721-6a0f-4189-9159-071280670da7</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1838,7 +1838,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>STIMPACK</ItemKey>
-      <Key>09b7dfdb-f75d-4348-9e0a-152ee2eb4672</Key>
+      <Key>3e2756c8-092c-41a1-b1d9-0ea08eefd91a</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>

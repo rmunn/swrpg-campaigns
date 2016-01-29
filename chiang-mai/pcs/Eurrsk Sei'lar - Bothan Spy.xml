@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <Character xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <LastChanged>2016-01-29T20:41:40.253</LastChanged>
+  <LastChanged>2016-01-30T01:06:35.643</LastChanged>
   <NotPersisted>false</NotPersisted>
   <FileName>Char13.xml</FileName>
   <Name />
   <Key>5f06a194-ff12-4d4e-89a4-afada4c65d43</Key>
   <Description>
     <CharName>Eurrsk Sei'lar</CharName>
-    <PlayerName>Jono/Sara</PlayerName>
+    <PlayerName />
     <GenderValue>cdgMale</GenderValue>
     <Age>31</Age>
     <Height>5'1"</Height>
@@ -1525,7 +1525,7 @@
       <Sources />
       <Custom>Base</Custom>
       <Size>15</Size>
-      <Notes />
+      <Notes>Owed to an Imperial officer, a friend of his from the Academy.</Notes>
       <ObKey>DUT</ObKey>
     </CharObligation>
   </Obligations>
@@ -1810,7 +1810,7 @@
   <Armor>
     <CharArmor>
       <ItemKey>HC</ItemKey>
-      <Key>f9c00465-d629-4fb1-8194-1873a8bee71b</Key>
+      <Key>ae236a33-aa52-4139-8701-e520a77f1ac4</Key>
       <Equipped>true</Equipped>
       <Held>true</Held>
       <Count>1</Count>
@@ -1825,7 +1825,7 @@
   <Gear>
     <CharGear>
       <ItemKey>DISGU</ItemKey>
-      <Key>ef116a32-0b6f-4cf9-8b23-a1838943149b</Key>
+      <Key>d3a46395-4291-4440-825f-83edb229eeb6</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1838,7 +1838,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>COMLINKH</ItemKey>
-      <Key>384932c8-fdab-4343-8350-165787cd3eaa</Key>
+      <Key>000c24e7-3336-4b80-8f97-86c3d1eca9ae</Key>
       <Equipped>false</Equipped>
       <Held>true</Held>
       <Count>1</Count>
@@ -1851,7 +1851,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>SCANG</ItemKey>
-      <Key>ceca5e1a-1a9b-40d6-8e7f-c63d4f4f0b48</Key>
+      <Key>89d64902-7cad-4c92-a716-3e4dea9940b4</Key>
       <Equipped>false</Equipped>
       <Held>true</Held>
       <Count>1</Count>
@@ -1864,7 +1864,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>UTILBELT</ItemKey>
-      <Key>a90b4e8d-efda-4196-bfb4-0558167c93ef</Key>
+      <Key>e8cf8950-8c80-4917-979b-cd8265329907</Key>
       <Equipped>false</Equipped>
       <Held>true</Held>
       <Count>1</Count>
@@ -1877,7 +1877,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>STIMPACK</ItemKey>
-      <Key>2ca01e9c-3f88-4249-9e14-1a83afe00c0c</Key>
+      <Key>273385e1-151e-430c-8c7d-c950c76cc0d5</Key>
       <Equipped>false</Equipped>
       <Held>true</Held>
       <Count>3</Count>
@@ -1896,7 +1896,9 @@
     <ObligPriorities />
     <DutyPriorities />
   </SummaryPriorities>
-  <Story />
+  <Story>If Eurrsk ever wanted to be something other than an operative for the Bothan SpyNet, he doesn’t remember those days.  Much like the common stereotype of being born into the spy business, the majority of Eurrsk’s family has been involved with the SpyNet in some degree or another, with the roles played ranging from mission control to data-sifters.  While his mother and grandfather would have preferred that Eurrsk pursue a less hazardous vocation, his father saw the natural aptitude and quick wits that were the hallmarks of a field agent, and that assessment was proven to be an accurate one as the young Bothan took to work like a Corellian to barhopping. By the time he reached adulthood, Eurrsk had already successfully completed three field missions, having learned to make good use of his rather non-descript features; most people that have spotted him only recall “some Bothan” without being able to give concrete details about his appearance.
+
+While the SpyNet command advocates a course of general neutrality in regards to the Galactic Civil War, Eurrsk has found it increasingly difficult to follow that directive, particularly after the destruction of Alderaan and the growing number of Imperial atrocities that he’s learned of in the course of his duties.  While his first and foremost loyalty is to the SpyNet and the Bothan government, Eurrsk is not averse to providing useful tidbits of information to the Rebel Alliance through discrete channels and at a substantial discount.  So far, his actions have not drawn the attention of his superiors, thanks in no small part to the discretion employed on his part, though he’s not so foolish as to think for one moment that some of the greatest spymasters in the galaxy are unaware of his transgressions.  For Eurrsk, it may only be a matter of time before he’s forced to choose between loyalty to the SpyNet or aiding the Alliance, and that will certainly be an interesting day…</Story>
   <Credits>400</Credits>
   <Morality>
     <Options>

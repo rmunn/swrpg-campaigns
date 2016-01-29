@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Character xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <LastChanged>2016-01-29T20:41:51.567</LastChanged>
+  <LastChanged>2016-01-30T01:06:51.243</LastChanged>
   <NotPersisted>false</NotPersisted>
   <FileName>Char9.xml</FileName>
   <Name />
@@ -1811,7 +1811,7 @@
   <Armor>
     <CharArmor>
       <ItemKey>HC</ItemKey>
-      <Key>527406fe-5087-49a3-8cdd-79e9853548bc</Key>
+      <Key>bc235970-0ffe-49fb-9e46-03009921eb07</Key>
       <Equipped>true</Equipped>
       <Held>true</Held>
       <Count>1</Count>
@@ -1826,7 +1826,7 @@
   <Gear>
     <CharGear>
       <ItemKey>COMLINKH</ItemKey>
-      <Key>8875e10b-a7bb-4514-9639-245eb306854b</Key>
+      <Key>16acad43-196d-4a8a-b230-b16d182b4627</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1839,7 +1839,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>MBIN</ItemKey>
-      <Key>a0b44d59-d185-4c10-9cb4-3dd4eaa612e6</Key>
+      <Key>c2274c15-fad7-438a-a233-ef7b45eaabc8</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1852,7 +1852,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>STIMPACK</ItemKey>
-      <Key>b37fc5fc-96fc-42a8-bbba-c4ecad49fbb1</Key>
+      <Key>309df888-c80d-4991-862f-a0429d2795d6</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>9</Count>
@@ -1865,7 +1865,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>BACKPACK</ItemKey>
-      <Key>cb98645a-f5bc-430b-a7c9-23bba6cc34c3</Key>
+      <Key>51febc18-6d21-4063-a50c-9c4de4f96ca1</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1878,7 +1878,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>DATAPAD</ItemKey>
-      <Key>1ca832f9-9a16-42c4-9240-e00c9210b2a0</Key>
+      <Key>bbb238ce-677d-4009-882a-12ed71b6f415</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1891,7 +1891,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>CLIMB</ItemKey>
-      <Key>a018539e-6264-4ee4-b2ae-3a033fabf342</Key>
+      <Key>179d3b3b-e983-4699-8917-26ec59c87e88</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1904,7 +1904,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>ERP</ItemKey>
-      <Key>2fe92899-5740-49d0-ac5d-040bd08f6001</Key>
+      <Key>80c8b0e5-e8a2-45fb-aad3-71716b6acf4b</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1917,7 +1917,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>TOOLKIT</ItemKey>
-      <Key>710fa3ed-000d-4ac6-ace8-32ca1363578b</Key>
+      <Key>f00ba061-5df2-4750-bb68-888a11d44c80</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1930,7 +1930,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>UTILBELT</ItemKey>
-      <Key>fd840f7e-63fa-456b-8c0b-8d58db39f1c0</Key>
+      <Key>9ebba2f5-f28e-4b90-a4e5-2407673697ac</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>

@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <Character xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <LastChanged>2016-01-29T20:42:03.287</LastChanged>
+  <LastChanged>2016-01-30T01:07:23.04</LastChanged>
   <NotPersisted>false</NotPersisted>
   <FileName>Char10.xml</FileName>
   <Name />
   <Key>1cf93d63-e4e9-46b2-9a0d-d1b1a1521bc3</Key>
   <Description>
     <CharName>Lowhhrick</CharName>
-    <PlayerName>Sara/Jono</PlayerName>
+    <PlayerName />
     <GenderValue>cdgMale</GenderValue>
     <Age>34</Age>
     <Height>6'8"</Height>
@@ -1513,7 +1513,7 @@
       <Sources />
       <Custom>Base</Custom>
       <Size>15</Size>
-      <Notes />
+      <Notes>Owed to an Imperial officer, a friend of his from the Academy.</Notes>
       <ObKey>OATH</ObKey>
     </CharObligation>
   </Obligations>
@@ -1799,7 +1799,7 @@
   <Gear>
     <CharGear>
       <ItemKey>COMLINKH</ItemKey>
-      <Key>c6230c1a-bd0f-4a4b-9a26-4c82b7fae3d2</Key>
+      <Key>3e88f3f6-0dae-4d29-a760-ef92484314d6</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1812,7 +1812,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>STIMPACK</ItemKey>
-      <Key>43175462-2f62-4ce0-beb7-eb29f06969b3</Key>
+      <Key>7c64dd72-188b-416b-9c15-65e8daa69df8</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>2</Count>
@@ -1825,7 +1825,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>UTILBELT</ItemKey>
-      <Key>1cfa05ed-4a35-4c5c-9dd8-2f072fcd4ebb</Key>
+      <Key>751510a1-8482-45e3-8b23-b491b01f5e77</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
