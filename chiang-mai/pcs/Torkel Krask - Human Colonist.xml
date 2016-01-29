@@ -1782,7 +1782,9 @@
   <Hook>
     <HookKey>FLAW</HookKey>
   </Hook>
-  <Attitude />
+  <Attitude>
+    <AttitudeKey />
+  </Attitude>
   <Weapons>
     <CharWeapon>
       <ItemKey>BLASTHOLD</ItemKey>

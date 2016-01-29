@@ -7,7 +7,7 @@
   <Key>1cf93d63-e4e9-46b2-9a0d-d1b1a1521bc3</Key>
   <Description>
     <CharName>Lowhhrick</CharName>
-    <PlayerName>Damien</PlayerName>
+    <PlayerName>Sara/Jono</PlayerName>
     <GenderValue>cdgMale</GenderValue>
     <Age>34</Age>
     <Height>6'8"</Height>
@@ -1742,7 +1742,9 @@
   <Hook>
     <HookKey>ENEMIES</HookKey>
   </Hook>
-  <Attitude />
+  <Attitude>
+    <AttitudeKey />
+  </Attitude>
   <Weapons>
     <CharWeapon>
       <ItemKey>VIBAX</ItemKey>

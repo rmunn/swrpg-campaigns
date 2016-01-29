@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Character xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <LastChanged>2015-09-14T00:00:00</LastChanged>
+  <LastChanged>2016-01-29T20:17:07.48</LastChanged>
   <NotPersisted>false</NotPersisted>
   <FileName>Char9.xml</FileName>
   <Name />
@@ -1107,7 +1107,7 @@
         <AttachRanks>0</AttachRanks>
         <ItemRanks>0</ItemRanks>
         <CyberRanks>0</CyberRanks>
-        <PurchasedRanks>1</PurchasedRanks>
+        <PurchasedRanks>2</PurchasedRanks>
         <CharRanks>0</CharRanks>
         <InjuryRanks>0</InjuryRanks>
         <NonCareerRanks>0</NonCareerRanks>
@@ -1558,7 +1558,7 @@
       <DefWeaponRanks>0</DefWeaponRanks>
       <DefWeaponAttachRanks>0</DefWeaponAttachRanks>
     </ExperienceRanks>
-    <UsedExperience>160</UsedExperience>
+    <UsedExperience>170</UsedExperience>
   </Experience>
   <Attributes>
     <SoakValue>
@@ -1771,11 +1771,13 @@
   <Hook>
     <HookKey>WRONG</HookKey>
   </Hook>
-  <Attitude />
+  <Attitude>
+    <AttitudeKey />
+  </Attitude>
   <Weapons>
     <CharWeapon>
       <ItemKey>BLASTHOLD</ItemKey>
-      <Key>abefc7f0-2977-4c2c-a6dd-192efea92470</Key>
+      <Key>7207b59c-2570-4503-b98a-2e597c8ca221</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1809,7 +1811,7 @@
   <Armor>
     <CharArmor>
       <ItemKey>HC</ItemKey>
-      <Key>4616f00d-f327-448a-a6a5-82927e24c38b</Key>
+      <Key>78fccfcf-718b-4866-ae31-ee9d5089aacd</Key>
       <Equipped>true</Equipped>
       <Held>true</Held>
       <Count>1</Count>
@@ -1824,7 +1826,7 @@
   <Gear>
     <CharGear>
       <ItemKey>COMLINKH</ItemKey>
-      <Key>b6e10713-2220-428d-bc6d-6f2dd799f04d</Key>
+      <Key>53bc0d7e-1809-44c4-92ee-d0ebe48ef85f</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1837,7 +1839,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>MBIN</ItemKey>
-      <Key>06fe2bf8-d8a0-43c3-937c-fe1773f9880a</Key>
+      <Key>62451921-0a9b-4d3a-b273-19d25b708bc3</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1850,7 +1852,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>STIMPACK</ItemKey>
-      <Key>24b3187c-de45-4595-9926-652c061bd6fb</Key>
+      <Key>bcc0d0e6-5fed-497c-b83f-ccf9fc50ffa3</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>9</Count>
@@ -1863,7 +1865,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>BACKPACK</ItemKey>
-      <Key>ab96851c-fb8e-40df-9970-751efeae046f</Key>
+      <Key>7b9269d5-3844-4ba2-b623-586f998768e2</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1876,7 +1878,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>DATAPAD</ItemKey>
-      <Key>e83b9cd1-6895-490c-8bc0-2541cc5581c8</Key>
+      <Key>6be45bc7-6451-4b81-a546-b500bf80cf19</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1889,7 +1891,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>CLIMB</ItemKey>
-      <Key>de6aaac4-2a3a-413a-96c2-a1de04b242a8</Key>
+      <Key>d8abc85e-96f2-420b-b6fe-ecc7e3abae5b</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1902,7 +1904,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>ERP</ItemKey>
-      <Key>0f175ded-656f-4222-9415-012049f56ca6</Key>
+      <Key>84d2df43-7863-4570-bf8b-f218fe4c90e6</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1915,7 +1917,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>TOOLKIT</ItemKey>
-      <Key>c9b8ce8e-7e63-4532-b617-b9d95619a9f1</Key>
+      <Key>f8b4b6d3-4438-4ec0-82ce-49689c6a380a</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1928,7 +1930,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>UTILBELT</ItemKey>
-      <Key>6abd70f5-b241-4af4-9675-bbd2c3685048</Key>
+      <Key>237f6c27-71ac-4f7c-8f07-06dba7917a98</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>

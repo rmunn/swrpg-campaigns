@@ -7,7 +7,7 @@
   <Key>c65b558f-8374-4294-8a10-70cad6f069fc</Key>
   <Description>
     <CharName>Eurrsk Sei'lar</CharName>
-    <PlayerName>Steve</PlayerName>
+    <PlayerName>Jono/Sara</PlayerName>
     <GenderValue>cdgMale</GenderValue>
     <Age>31</Age>
     <Height>5'1"</Height>
@@ -1708,7 +1708,9 @@
   <Hook>
     <HookKey>HIGH</HookKey>
   </Hook>
-  <Attitude />
+  <Attitude>
+    <AttitudeKey />
+  </Attitude>
   <Weapons>
     <CharWeapon>
       <ItemKey>BLASTPIS</ItemKey>
