@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Character xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <LastChanged>2016-01-29T20:36:35.62</LastChanged>
+  <LastChanged>2016-01-29T20:41:40.253</LastChanged>
   <NotPersisted>false</NotPersisted>
   <FileName>Char13.xml</FileName>
   <Name />
@@ -1550,7 +1550,7 @@
       <AttachRanks>0</AttachRanks>
       <ItemRanks>0</ItemRanks>
       <CyberRanks>0</CyberRanks>
-      <PurchasedRanks>60</PurchasedRanks>
+      <PurchasedRanks>80</PurchasedRanks>
       <CharRanks>0</CharRanks>
       <InjuryRanks>0</InjuryRanks>
       <NonCareerRanks>0</NonCareerRanks>
@@ -1810,7 +1810,7 @@
   <Armor>
     <CharArmor>
       <ItemKey>HC</ItemKey>
-      <Key>3eb65f21-a5d6-4d02-bf79-3b1d3ef83576</Key>
+      <Key>f9c00465-d629-4fb1-8194-1873a8bee71b</Key>
       <Equipped>true</Equipped>
       <Held>true</Held>
       <Count>1</Count>
@@ -1825,7 +1825,7 @@
   <Gear>
     <CharGear>
       <ItemKey>DISGU</ItemKey>
-      <Key>a64bbcb8-c824-4602-87b3-6fc0c227da48</Key>
+      <Key>ef116a32-0b6f-4cf9-8b23-a1838943149b</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1838,7 +1838,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>COMLINKH</ItemKey>
-      <Key>e91a0b3c-a937-41d1-a07f-30a2ced7f2de</Key>
+      <Key>384932c8-fdab-4343-8350-165787cd3eaa</Key>
       <Equipped>false</Equipped>
       <Held>true</Held>
       <Count>1</Count>
@@ -1851,7 +1851,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>SCANG</ItemKey>
-      <Key>8814f7f0-1164-4fca-9e7d-42a9c63e51e1</Key>
+      <Key>ceca5e1a-1a9b-40d6-8e7f-c63d4f4f0b48</Key>
       <Equipped>false</Equipped>
       <Held>true</Held>
       <Count>1</Count>
@@ -1864,7 +1864,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>UTILBELT</ItemKey>
-      <Key>dd84c772-10c3-4861-84bc-17104dc760d0</Key>
+      <Key>a90b4e8d-efda-4196-bfb4-0558167c93ef</Key>
       <Equipped>false</Equipped>
       <Held>true</Held>
       <Count>1</Count>
@@ -1877,7 +1877,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>STIMPACK</ItemKey>
-      <Key>5d1c95eb-8c33-4ea2-9418-ba725499d720</Key>
+      <Key>2ca01e9c-3f88-4249-9e14-1a83afe00c0c</Key>
       <Equipped>false</Equipped>
       <Held>true</Held>
       <Count>3</Count>

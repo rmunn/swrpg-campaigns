@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Character xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <LastChanged>2015-09-14T00:00:00</LastChanged>
+  <LastChanged>2016-01-29T20:42:17.153</LastChanged>
   <NotPersisted>false</NotPersisted>
   <FileName>Char11.xml</FileName>
   <Name />
@@ -1550,7 +1550,7 @@
       <AttachRanks>0</AttachRanks>
       <ItemRanks>0</ItemRanks>
       <CyberRanks>0</CyberRanks>
-      <PurchasedRanks>60</PurchasedRanks>
+      <PurchasedRanks>80</PurchasedRanks>
       <CharRanks>0</CharRanks>
       <InjuryRanks>0</InjuryRanks>
       <NonCareerRanks>0</NonCareerRanks>
@@ -1776,7 +1776,7 @@
   <Weapons>
     <CharWeapon>
       <ItemKey>BLASTPIS</ItemKey>
-      <Key>bb791661-8c35-4315-8af7-cec7f5a79d37</Key>
+      <Key>a5a86bae-a2d8-4c38-bb9a-2e8faa42850e</Key>
       <Equipped>true</Equipped>
       <Held>true</Held>
       <Count>1</Count>
@@ -1810,7 +1810,7 @@
   <Armor>
     <CharArmor>
       <ItemKey>HC</ItemKey>
-      <Key>eb3a81e6-826a-429a-8e82-33fc2fe02685</Key>
+      <Key>621084dd-e377-457e-b9d8-aef9ddf82b6e</Key>
       <Equipped>true</Equipped>
       <Held>true</Held>
       <Count>1</Count>
@@ -1825,7 +1825,7 @@
   <Gear>
     <CharGear>
       <ItemKey>COMLINKH</ItemKey>
-      <Key>47097de1-6b49-4cc9-80c3-2c165b14a44c</Key>
+      <Key>54d6679b-4e82-4ef3-89cf-a318a1ba2e4a</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1838,7 +1838,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>STIMPACK</ItemKey>
-      <Key>5882947b-ea68-43cc-9bc0-7d11ecf49fbe</Key>
+      <Key>09b7dfdb-f75d-4348-9e0a-152ee2eb4672</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>

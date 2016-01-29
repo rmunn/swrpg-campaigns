@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Character xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <LastChanged>2015-09-14T00:00:00</LastChanged>
+  <LastChanged>2016-01-29T20:42:51.363</LastChanged>
   <NotPersisted>false</NotPersisted>
   <FileName>Char1.xml</FileName>
   <Name />
@@ -1561,7 +1561,7 @@
       <AttachRanks>0</AttachRanks>
       <ItemRanks>0</ItemRanks>
       <CyberRanks>0</CyberRanks>
-      <PurchasedRanks>62</PurchasedRanks>
+      <PurchasedRanks>82</PurchasedRanks>
       <CharRanks>0</CharRanks>
       <InjuryRanks>0</InjuryRanks>
       <NonCareerRanks>0</NonCareerRanks>
@@ -1788,7 +1788,7 @@
   <Weapons>
     <CharWeapon>
       <ItemKey>BLASTHOLD</ItemKey>
-      <Key>422ee751-6b1a-47b1-b91a-e522de03b544</Key>
+      <Key>dfb11844-b0d8-43be-b292-89ec0029d13a</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1804,7 +1804,7 @@
     </CharWeapon>
     <CharWeapon>
       <ItemKey>SHOCKGL</ItemKey>
-      <Key>4d8b98aa-7eef-453d-9683-a728ef6207af</Key>
+      <Key>e0194a65-3145-46a6-a229-46b91be7b945</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1838,7 +1838,7 @@
   <Armor>
     <CharArmor>
       <ItemKey>HC</ItemKey>
-      <Key>a85653c7-fba4-4bfa-9b16-7dccaef59a40</Key>
+      <Key>e4de5868-fe01-4622-a499-603dbc7d4d1f</Key>
       <Equipped>true</Equipped>
       <Held>true</Held>
       <Count>1</Count>
@@ -1853,7 +1853,7 @@
   <Gear>
     <CharGear>
       <ItemKey>COMLINKH</ItemKey>
-      <Key>ce310a2d-a282-4144-bc3a-1dc1e412c7c9</Key>
+      <Key>0abc1540-eed1-4f80-8332-7d707817bcca</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1866,7 +1866,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>HOLO</ItemKey>
-      <Key>df2b7765-62e2-4198-9841-c1a2275dd18f</Key>
+      <Key>c528858e-9c77-4709-8561-ba9257784231</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1879,7 +1879,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>CYREPLIMB</ItemKey>
-      <Key>dcaf4f60-cef2-4bf8-8fb2-e64453cb89ac</Key>
+      <Key>9e35f35d-b6dd-4025-9569-ad43eace9889</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1892,7 +1892,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>HSCAN</ItemKey>
-      <Key>2242f2c5-e32b-440f-b97d-752771cd1c7c</Key>
+      <Key>af462a62-a4d7-4501-b9bf-ba5482ec4043</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1905,7 +1905,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>STAG</ItemKey>
-      <Key>c4564ca3-75e7-4fdd-95dc-726780c3379b</Key>
+      <Key>e98337a4-154a-469c-9829-94e5c3a3ead2</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>2</Count>
@@ -1918,7 +1918,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>COMMSCRAM</ItemKey>
-      <Key>b7e26a8c-329d-4ee8-a7c4-19794838f04b</Key>
+      <Key>fde2f98f-769a-4ded-90bf-31a4b2b895bc</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1931,7 +1931,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>AVASPDOSE</ItemKey>
-      <Key>57f2f73c-35a2-4bb5-be99-84af6f935e3c</Key>
+      <Key>0a0c2bde-6464-40e5-868d-fa6f1a2d7024</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>

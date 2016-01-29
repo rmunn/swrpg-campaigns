@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Character xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <LastChanged>2015-09-14T00:00:00</LastChanged>
+  <LastChanged>2016-01-29T20:42:03.287</LastChanged>
   <NotPersisted>false</NotPersisted>
   <FileName>Char10.xml</FileName>
   <Name />
@@ -1538,7 +1538,7 @@
       <AttachRanks>0</AttachRanks>
       <ItemRanks>0</ItemRanks>
       <CyberRanks>0</CyberRanks>
-      <PurchasedRanks>60</PurchasedRanks>
+      <PurchasedRanks>80</PurchasedRanks>
       <CharRanks>0</CharRanks>
       <InjuryRanks>0</InjuryRanks>
       <NonCareerRanks>0</NonCareerRanks>
@@ -1748,7 +1748,7 @@
   <Weapons>
     <CharWeapon>
       <ItemKey>VIBAX</ItemKey>
-      <Key>09972375-81f4-4b86-8380-3a0877676b32</Key>
+      <Key>25259fa7-db79-494d-9b85-89d070d97b49</Key>
       <Equipped>true</Equipped>
       <Held>true</Held>
       <Count>1</Count>
@@ -1764,7 +1764,7 @@
     </CharWeapon>
     <CharWeapon>
       <ItemKey>BLASTPIS</ItemKey>
-      <Key>0f6c99a7-d314-44a4-aad7-e21e68fe6387</Key>
+      <Key>00d0eb08-3410-4078-9d2c-90d7583634ca</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1799,7 +1799,7 @@
   <Gear>
     <CharGear>
       <ItemKey>COMLINKH</ItemKey>
-      <Key>00e238e5-648e-450c-9485-3b5cae20f6c1</Key>
+      <Key>c6230c1a-bd0f-4a4b-9a26-4c82b7fae3d2</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1812,7 +1812,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>STIMPACK</ItemKey>
-      <Key>a900a6a8-2256-41ca-adce-842139404a1f</Key>
+      <Key>43175462-2f62-4ce0-beb7-eb29f06969b3</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>2</Count>
@@ -1825,7 +1825,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>UTILBELT</ItemKey>
-      <Key>8da2cc93-89e4-49b2-bf11-8e01811a37d0</Key>
+      <Key>1cfa05ed-4a35-4c5c-9dd8-2f072fcd4ebb</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
