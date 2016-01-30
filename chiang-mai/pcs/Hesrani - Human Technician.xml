@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Character xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <LastChanged>2016-01-30T12:17:11.387</LastChanged>
+  <LastChanged>2016-01-30T17:56:35.367</LastChanged>
   <NotPersisted>false</NotPersisted>
   <FileName>Char9.xml</FileName>
   <Name />
@@ -454,6 +454,258 @@
         </CharTalent>
       </Talents>
     </CharSpecialization>
+    <CharSpecialization>
+      <Key>OUTLAW</Key>
+      <Name>Outlaw Tech</Name>
+      <Description />
+      <Source />
+      <Sources />
+      <Custom>Base</Custom>
+      <isStartingSpec>false</isStartingSpec>
+      <isCareerSpec>true</isCareerSpec>
+      <Talents>
+        <CharTalent>
+          <Key>TINK</Key>
+          <Col>0</Col>
+          <Row>0</Row>
+          <Purchased>false</Purchased>
+          <Free>false</Free>
+          <Ranks>0</Ranks>
+          <BonusChars />
+          <Sources />
+          <CareerSkills />
+          <SelectedSkills />
+        </CharTalent>
+        <CharTalent>
+          <Key>UTINNI</Key>
+          <Col>1</Col>
+          <Row>0</Row>
+          <Purchased>false</Purchased>
+          <Free>false</Free>
+          <Ranks>0</Ranks>
+          <BonusChars />
+          <Sources />
+          <CareerSkills />
+          <SelectedSkills />
+        </CharTalent>
+        <CharTalent>
+          <Key>SPKBIN</Key>
+          <Col>2</Col>
+          <Row>0</Row>
+          <Purchased>false</Purchased>
+          <Free>false</Free>
+          <Ranks>0</Ranks>
+          <BonusChars />
+          <Sources />
+          <CareerSkills />
+          <SelectedSkills />
+        </CharTalent>
+        <CharTalent>
+          <Key>TINK</Key>
+          <Col>3</Col>
+          <Row>0</Row>
+          <Purchased>false</Purchased>
+          <Free>false</Free>
+          <Ranks>0</Ranks>
+          <BonusChars />
+          <Sources />
+          <CareerSkills />
+          <SelectedSkills />
+        </CharTalent>
+        <CharTalent>
+          <Key>SOLREP</Key>
+          <Col>0</Col>
+          <Row>1</Row>
+          <Purchased>false</Purchased>
+          <Free>false</Free>
+          <Ranks>0</Ranks>
+          <BonusChars />
+          <Sources />
+          <CareerSkills />
+          <SelectedSkills />
+        </CharTalent>
+        <CharTalent>
+          <Key>GRIT</Key>
+          <Col>1</Col>
+          <Row>1</Row>
+          <Purchased>false</Purchased>
+          <Free>false</Free>
+          <Ranks>0</Ranks>
+          <BonusChars />
+          <Sources />
+          <CareerSkills />
+          <SelectedSkills />
+        </CharTalent>
+        <CharTalent>
+          <Key>UTINNI</Key>
+          <Col>2</Col>
+          <Row>1</Row>
+          <Purchased>false</Purchased>
+          <Free>false</Free>
+          <Ranks>0</Ranks>
+          <BonusChars />
+          <Sources />
+          <CareerSkills />
+          <SelectedSkills />
+        </CharTalent>
+        <CharTalent>
+          <Key>TOUGH</Key>
+          <Col>3</Col>
+          <Row>1</Row>
+          <Purchased>false</Purchased>
+          <Free>false</Free>
+          <Ranks>0</Ranks>
+          <BonusChars />
+          <Sources />
+          <CareerSkills />
+          <SelectedSkills />
+        </CharTalent>
+        <CharTalent>
+          <Key>UTIL</Key>
+          <Col>0</Col>
+          <Row>2</Row>
+          <Purchased>false</Purchased>
+          <Free>false</Free>
+          <Ranks>0</Ranks>
+          <BonusChars />
+          <Sources />
+          <CareerSkills />
+          <SelectedSkills />
+        </CharTalent>
+        <CharTalent>
+          <Key>SIDESTEP</Key>
+          <Col>1</Col>
+          <Row>2</Row>
+          <Purchased>false</Purchased>
+          <Free>false</Free>
+          <Ranks>0</Ranks>
+          <BonusChars />
+          <Sources />
+          <CareerSkills />
+          <SelectedSkills />
+        </CharTalent>
+        <CharTalent>
+          <Key>BRA</Key>
+          <Col>2</Col>
+          <Row>2</Row>
+          <Purchased>false</Purchased>
+          <Free>false</Free>
+          <Ranks>0</Ranks>
+          <BonusChars />
+          <Sources />
+          <CareerSkills />
+          <SelectedSkills />
+        </CharTalent>
+        <CharTalent>
+          <Key>DEFSTA</Key>
+          <Col>3</Col>
+          <Row>2</Row>
+          <Purchased>false</Purchased>
+          <Free>false</Free>
+          <Ranks>0</Ranks>
+          <BonusChars />
+          <Sources />
+          <CareerSkills />
+          <SelectedSkills />
+        </CharTalent>
+        <CharTalent>
+          <Key>JURY</Key>
+          <Col>0</Col>
+          <Row>3</Row>
+          <Purchased>false</Purchased>
+          <Free>false</Free>
+          <Ranks>0</Ranks>
+          <BonusChars />
+          <Sources />
+          <CareerSkills />
+          <SelectedSkills />
+        </CharTalent>
+        <CharTalent>
+          <Key>SPKBIN</Key>
+          <Col>1</Col>
+          <Row>3</Row>
+          <Purchased>false</Purchased>
+          <Free>false</Free>
+          <Ranks>0</Ranks>
+          <BonusChars />
+          <Sources />
+          <CareerSkills />
+          <SelectedSkills />
+        </CharTalent>
+        <CharTalent>
+          <Key>INVENT</Key>
+          <Col>2</Col>
+          <Row>3</Row>
+          <Purchased>false</Purchased>
+          <Free>false</Free>
+          <Ranks>0</Ranks>
+          <BonusChars />
+          <Sources />
+          <CareerSkills />
+          <SelectedSkills />
+        </CharTalent>
+        <CharTalent>
+          <Key>JURY</Key>
+          <Col>3</Col>
+          <Row>3</Row>
+          <Purchased>false</Purchased>
+          <Free>false</Free>
+          <Ranks>0</Ranks>
+          <BonusChars />
+          <Sources />
+          <CareerSkills />
+          <SelectedSkills />
+        </CharTalent>
+        <CharTalent>
+          <Key>INVENT</Key>
+          <Col>0</Col>
+          <Row>4</Row>
+          <Purchased>false</Purchased>
+          <Free>false</Free>
+          <Ranks>0</Ranks>
+          <BonusChars />
+          <Sources />
+          <CareerSkills />
+          <SelectedSkills />
+        </CharTalent>
+        <CharTalent>
+          <Key>DEDI</Key>
+          <Col>1</Col>
+          <Row>4</Row>
+          <Purchased>false</Purchased>
+          <Free>false</Free>
+          <Ranks>0</Ranks>
+          <BonusChars />
+          <Sources />
+          <CareerSkills />
+          <SelectedSkills />
+        </CharTalent>
+        <CharTalent>
+          <Key>KNOWSCH</Key>
+          <Col>2</Col>
+          <Row>4</Row>
+          <Purchased>false</Purchased>
+          <Free>false</Free>
+          <Ranks>0</Ranks>
+          <BonusChars />
+          <Sources />
+          <CareerSkills />
+          <SelectedSkills />
+        </CharTalent>
+        <CharTalent>
+          <Key>BRA</Key>
+          <Col>3</Col>
+          <Row>4</Row>
+          <Purchased>false</Purchased>
+          <Free>false</Free>
+          <Ranks>0</Ranks>
+          <BonusChars />
+          <Sources />
+          <CareerSkills />
+          <SelectedSkills />
+        </CharTalent>
+      </Talents>
+    </CharSpecialization>
   </Specializations>
   <ForcePowers />
   <SigAbilities />
@@ -815,7 +1067,7 @@
         <DefWeaponRanks>0</DefWeaponRanks>
         <DefWeaponAttachRanks>0</DefWeaponAttachRanks>
       </Rank>
-      <isCareer>false</isCareer>
+      <isCareer>true</isCareer>
       <CharKeyOverride />
     </CharSkill>
     <CharSkill>
@@ -1287,7 +1539,7 @@
         <AttachRanks>0</AttachRanks>
         <ItemRanks>0</ItemRanks>
         <CyberRanks>0</CyberRanks>
-        <PurchasedRanks>0</PurchasedRanks>
+        <PurchasedRanks>1</PurchasedRanks>
         <CharRanks>0</CharRanks>
         <InjuryRanks>0</InjuryRanks>
         <NonCareerRanks>0</NonCareerRanks>
@@ -1355,7 +1607,7 @@
         <DefWeaponRanks>0</DefWeaponRanks>
         <DefWeaponAttachRanks>0</DefWeaponAttachRanks>
       </Rank>
-      <isCareer>false</isCareer>
+      <isCareer>true</isCareer>
       <CharKeyOverride />
     </CharSkill>
     <CharSkill>
@@ -1415,7 +1667,7 @@
         <DefWeaponRanks>0</DefWeaponRanks>
         <DefWeaponAttachRanks>0</DefWeaponAttachRanks>
       </Rank>
-      <isCareer>false</isCareer>
+      <isCareer>true</isCareer>
       <CharKeyOverride />
     </CharSkill>
     <CharSkill>
@@ -1550,7 +1802,7 @@
       <AttachRanks>0</AttachRanks>
       <ItemRanks>0</ItemRanks>
       <CyberRanks>0</CyberRanks>
-      <PurchasedRanks>80</PurchasedRanks>
+      <PurchasedRanks>90</PurchasedRanks>
       <CharRanks>0</CharRanks>
       <InjuryRanks>0</InjuryRanks>
       <NonCareerRanks>0</NonCareerRanks>
@@ -1558,7 +1810,7 @@
       <DefWeaponRanks>0</DefWeaponRanks>
       <DefWeaponAttachRanks>0</DefWeaponAttachRanks>
     </ExperienceRanks>
-    <UsedExperience>170</UsedExperience>
+    <UsedExperience>200</UsedExperience>
   </Experience>
   <Attributes>
     <SoakValue>
@@ -1811,7 +2063,7 @@
   <Armor>
     <CharArmor>
       <ItemKey>HC</ItemKey>
-      <Key>ce647ace-1eae-4903-8f89-be93865f2463</Key>
+      <Key>bb7a360d-d735-42c9-99ab-a66e609888ac</Key>
       <Equipped>true</Equipped>
       <Held>true</Held>
       <Count>1</Count>
@@ -1826,7 +2078,7 @@
   <Gear>
     <CharGear>
       <ItemKey>COMLINKH</ItemKey>
-      <Key>09375eef-d02f-4fd2-91aa-c92c96120c78</Key>
+      <Key>6705d8fa-97fb-44f2-bb2f-f41d16ad8fac</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1839,7 +2091,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>MBIN</ItemKey>
-      <Key>419aafbb-aad5-478e-b9ae-afd870fe0ef7</Key>
+      <Key>2692c239-5d7e-4fb5-a380-145a00b66ccf</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1852,7 +2104,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>STIMPACK</ItemKey>
-      <Key>e52bd307-fe06-46b8-9bae-9d2eaf414f2b</Key>
+      <Key>eac54266-b063-4abb-a47b-992d7a098e3c</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>9</Count>
@@ -1865,7 +2117,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>BACKPACK</ItemKey>
-      <Key>3bb8d3aa-7c19-4849-9dd9-99400457299a</Key>
+      <Key>21c4841c-d560-4c7d-aa7b-0da511eafb45</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1878,7 +2130,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>DATAPAD</ItemKey>
-      <Key>228e8910-b662-4396-a450-fe4b4bbc96e2</Key>
+      <Key>ee018fb0-6c87-422c-aafa-d7437323fc6a</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1891,7 +2143,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>CLIMB</ItemKey>
-      <Key>1dce61c4-81ca-4733-a4d3-cbe0596d0d5e</Key>
+      <Key>c29b5188-16fb-429c-92e4-1465acf68d1b</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1904,7 +2156,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>ERP</ItemKey>
-      <Key>14bed0c1-9c76-4271-b188-8840665a5561</Key>
+      <Key>25b695d4-0d55-48a4-ab79-fa7c190eb078</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1917,7 +2169,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>TOOLKIT</ItemKey>
-      <Key>de7a56f0-f18d-403e-aff2-412784f6efc5</Key>
+      <Key>4de0be65-38b9-4581-b223-8da7c56ef02f</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1930,7 +2182,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>UTILBELT</ItemKey>
-      <Key>52be8cb6-fa84-44f5-9023-b2dfc13a92ae</Key>
+      <Key>4f956f8d-ca30-4840-9064-37956a2bfc54</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
