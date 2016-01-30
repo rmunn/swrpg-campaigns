@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Character xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <LastChanged>2016-01-30T01:07:49.75</LastChanged>
+  <LastChanged>2016-01-30T12:36:32.387</LastChanged>
   <NotPersisted>false</NotPersisted>
   <FileName>Char27.xml</FileName>
   <Name />
@@ -204,13 +204,15 @@
           <Key>KNOWSPEC</Key>
           <Col>0</Col>
           <Row>0</Row>
-          <Purchased>false</Purchased>
+          <Purchased>true</Purchased>
           <Free>false</Free>
           <Ranks>0</Ranks>
           <BonusChars />
           <Sources />
           <CareerSkills />
-          <SelectedSkills />
+          <SelectedSkills>
+            <Key>WARF</Key>
+          </SelectedSkills>
         </CharTalent>
         <CharTalent>
           <Key>RESPSCHOL</Key>
@@ -240,7 +242,7 @@
           <Key>SPKBIN</Key>
           <Col>3</Col>
           <Row>0</Row>
-          <Purchased>false</Purchased>
+          <Purchased>true</Purchased>
           <Free>false</Free>
           <Ranks>0</Ranks>
           <BonusChars />
@@ -252,7 +254,7 @@
           <Key>RESEARCH</Key>
           <Col>0</Col>
           <Row>1</Row>
-          <Purchased>false</Purchased>
+          <Purchased>true</Purchased>
           <Free>false</Free>
           <Ranks>0</Ranks>
           <BonusChars />
@@ -270,7 +272,9 @@
           <BonusChars />
           <Sources />
           <CareerSkills />
-          <SelectedSkills />
+          <SelectedSkills>
+            <Key>WARF</Key>
+          </SelectedSkills>
         </CharTalent>
         <CharTalent>
           <Key>HIDD</Key>
@@ -288,7 +292,7 @@
           <Key>TINK</Key>
           <Col>3</Col>
           <Row>1</Row>
-          <Purchased>false</Purchased>
+          <Purchased>true</Purchased>
           <Free>false</Free>
           <Ranks>0</Ranks>
           <BonusChars />
@@ -336,7 +340,7 @@
           <Key>INVENT</Key>
           <Col>3</Col>
           <Row>2</Row>
-          <Purchased>false</Purchased>
+          <Purchased>true</Purchased>
           <Free>false</Free>
           <Ranks>0</Ranks>
           <BonusChars />
@@ -384,7 +388,7 @@
           <Key>TINK</Key>
           <Col>3</Col>
           <Row>3</Row>
-          <Purchased>false</Purchased>
+          <Purchased>true</Purchased>
           <Free>false</Free>
           <Ranks>0</Ranks>
           <BonusChars />
@@ -615,7 +619,7 @@
         <AttachRanks>0</AttachRanks>
         <ItemRanks>0</ItemRanks>
         <CyberRanks>0</CyberRanks>
-        <PurchasedRanks>0</PurchasedRanks>
+        <PurchasedRanks>1</PurchasedRanks>
         <CharRanks>0</CharRanks>
         <InjuryRanks>0</InjuryRanks>
         <NonCareerRanks>0</NonCareerRanks>
@@ -1546,7 +1550,7 @@
       <DefWeaponRanks>0</DefWeaponRanks>
       <DefWeaponAttachRanks>0</DefWeaponAttachRanks>
     </ExperienceRanks>
-    <UsedExperience>100</UsedExperience>
+    <UsedExperience>180</UsedExperience>
   </Experience>
   <Attributes>
     <SoakValue>

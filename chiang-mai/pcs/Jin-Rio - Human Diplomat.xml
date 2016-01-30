@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <Character xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <LastChanged>2016-01-30T01:07:07.237</LastChanged>
+  <LastChanged>2016-01-30T12:19:52.523</LastChanged>
   <NotPersisted>false</NotPersisted>
   <FileName>Char26.xml</FileName>
   <Name />
   <Key>aa92f94c-0bf9-4310-97e3-3040ec64872a</Key>
   <Description>
     <CharName>Jin-Rio</CharName>
-    <PlayerName />
+    <PlayerName>Isaac Schubert</PlayerName>
     <GenderValue>cdgFemale</GenderValue>
     <Age />
     <Height />
@@ -216,7 +216,7 @@
           <Key>PLAUSDEN</Key>
           <Col>0</Col>
           <Row>0</Row>
-          <Purchased>false</Purchased>
+          <Purchased>true</Purchased>
           <Free>false</Free>
           <Ranks>0</Ranks>
           <BonusChars />
@@ -228,7 +228,7 @@
           <Key>NOBFOOL</Key>
           <Col>1</Col>
           <Row>0</Row>
-          <Purchased>false</Purchased>
+          <Purchased>true</Purchased>
           <Free>false</Free>
           <Ranks>0</Ranks>
           <BonusChars />
@@ -240,7 +240,7 @@
           <Key>GRIT</Key>
           <Col>2</Col>
           <Row>0</Row>
-          <Purchased>false</Purchased>
+          <Purchased>true</Purchased>
           <Free>false</Free>
           <Ranks>0</Ranks>
           <BonusChars />
@@ -252,7 +252,7 @@
           <Key>INTIM</Key>
           <Col>3</Col>
           <Row>0</Row>
-          <Purchased>false</Purchased>
+          <Purchased>true</Purchased>
           <Free>false</Free>
           <Ranks>0</Ranks>
           <BonusChars />
@@ -276,7 +276,7 @@
           <Key>STRSMART</Key>
           <Col>1</Col>
           <Row>1</Row>
-          <Purchased>false</Purchased>
+          <Purchased>true</Purchased>
           <Free>false</Free>
           <Ranks>0</Ranks>
           <BonusChars />
@@ -288,7 +288,7 @@
           <Key>CONV</Key>
           <Col>2</Col>
           <Row>1</Row>
-          <Purchased>false</Purchased>
+          <Purchased>true</Purchased>
           <Free>false</Free>
           <Ranks>0</Ranks>
           <BonusChars />
@@ -336,7 +336,7 @@
           <Key>SCATH</Key>
           <Col>2</Col>
           <Row>2</Row>
-          <Purchased>false</Purchased>
+          <Purchased>true</Purchased>
           <Free>false</Free>
           <Ranks>0</Ranks>
           <BonusChars />
@@ -567,7 +567,7 @@
         <AttachRanks>0</AttachRanks>
         <ItemRanks>0</ItemRanks>
         <CyberRanks>0</CyberRanks>
-        <PurchasedRanks>0</PurchasedRanks>
+        <PurchasedRanks>1</PurchasedRanks>
         <CharRanks>0</CharRanks>
         <InjuryRanks>0</InjuryRanks>
         <NonCareerRanks>0</NonCareerRanks>
@@ -597,7 +597,7 @@
         <AttachRanks>0</AttachRanks>
         <ItemRanks>0</ItemRanks>
         <CyberRanks>0</CyberRanks>
-        <PurchasedRanks>0</PurchasedRanks>
+        <PurchasedRanks>1</PurchasedRanks>
         <CharRanks>0</CharRanks>
         <InjuryRanks>0</InjuryRanks>
         <NonCareerRanks>0</NonCareerRanks>
@@ -867,7 +867,7 @@
         <AttachRanks>0</AttachRanks>
         <ItemRanks>0</ItemRanks>
         <CyberRanks>0</CyberRanks>
-        <PurchasedRanks>0</PurchasedRanks>
+        <PurchasedRanks>1</PurchasedRanks>
         <CharRanks>0</CharRanks>
         <InjuryRanks>0</InjuryRanks>
         <NonCareerRanks>0</NonCareerRanks>
@@ -1347,7 +1347,7 @@
         <AttachRanks>0</AttachRanks>
         <ItemRanks>0</ItemRanks>
         <CyberRanks>0</CyberRanks>
-        <PurchasedRanks>0</PurchasedRanks>
+        <PurchasedRanks>1</PurchasedRanks>
         <CharRanks>0</CharRanks>
         <InjuryRanks>0</InjuryRanks>
         <NonCareerRanks>0</NonCareerRanks>
@@ -1467,7 +1467,7 @@
         <AttachRanks>0</AttachRanks>
         <ItemRanks>0</ItemRanks>
         <CyberRanks>0</CyberRanks>
-        <PurchasedRanks>0</PurchasedRanks>
+        <PurchasedRanks>1</PurchasedRanks>
         <CharRanks>0</CharRanks>
         <InjuryRanks>0</InjuryRanks>
         <NonCareerRanks>0</NonCareerRanks>
@@ -1558,7 +1558,7 @@
       <DefWeaponRanks>0</DefWeaponRanks>
       <DefWeaponAttachRanks>0</DefWeaponAttachRanks>
     </ExperienceRanks>
-    <UsedExperience>100</UsedExperience>
+    <UsedExperience>190</UsedExperience>
   </Experience>
   <Attributes>
     <SoakValue>
@@ -1607,7 +1607,7 @@
       <StartingRanks>2</StartingRanks>
       <SpeciesRanks>10</SpeciesRanks>
       <CareerRanks>0</CareerRanks>
-      <TalentRanks>0</TalentRanks>
+      <TalentRanks>1</TalentRanks>
       <ObligationRanks>0</ObligationRanks>
       <DutyRanks>0</DutyRanks>
       <AttachRanks>0</AttachRanks>
@@ -1778,8 +1778,24 @@
     <CharWeapon>
       <ItemKey>BLASTPIS</ItemKey>
       <Key>960816dd-8806-4c0c-9272-d8e6f8c7226a</Key>
-      <Equipped>false</Equipped>
-      <Held>false</Held>
+      <Equipped>true</Equipped>
+      <Held>true</Held>
+      <Count>1</Count>
+      <PurchasedAttachments />
+      <AddlHP>0</AddlHP>
+      <Notes />
+      <Rename />
+      <Prioritize>false</Prioritize>
+      <HPPerItem>0</HPPerItem>
+      <TwoWeaponSets />
+      <Shown>true</Shown>
+      <Innate>false</Innate>
+    </CharWeapon>
+    <CharWeapon>
+      <ItemKey>SHOCKGL</ItemKey>
+      <Key>f0613d48-5107-40c7-b57d-d9249db3f72e</Key>
+      <Equipped>true</Equipped>
+      <Held>true</Held>
       <Count>1</Count>
       <PurchasedAttachments />
       <AddlHP>0</AddlHP>
@@ -1834,20 +1850,20 @@
       <AddlHP>0</AddlHP>
       <Notes />
       <Rename />
-      <Prioritize>false</Prioritize>
+      <Prioritize>true</Prioritize>
       <HPPerItem>0</HPPerItem>
     </CharGear>
     <CharGear>
       <ItemKey>HOLO</ItemKey>
       <Key>4a0d1acc-09fa-4cf1-9425-c10aa77a1c34</Key>
-      <Equipped>false</Equipped>
-      <Held>false</Held>
+      <Equipped>true</Equipped>
+      <Held>true</Held>
       <Count>1</Count>
       <PurchasedAttachments />
       <AddlHP>0</AddlHP>
       <Notes>Holo-comm</Notes>
       <Rename />
-      <Prioritize>false</Prioritize>
+      <Prioritize>true</Prioritize>
       <HPPerItem>0</HPPerItem>
     </CharGear>
     <CharGear>
@@ -1860,29 +1876,35 @@
       <AddlHP>0</AddlHP>
       <Notes />
       <Rename />
-      <Prioritize>false</Prioritize>
+      <Prioritize>true</Prioritize>
       <HPPerItem>0</HPPerItem>
     </CharGear>
     <CharGear>
       <ItemKey>DATAPAD</ItemKey>
       <Key>1ed755b1-11b3-4611-a9c3-4e77eb28c54a</Key>
-      <Equipped>false</Equipped>
-      <Held>false</Held>
+      <Equipped>true</Equipped>
+      <Held>true</Held>
       <Count>1</Count>
       <PurchasedAttachments />
       <AddlHP>0</AddlHP>
       <Notes />
       <Rename />
-      <Prioritize>false</Prioritize>
+      <Prioritize>true</Prioritize>
       <HPPerItem>0</HPPerItem>
     </CharGear>
   </Gear>
   <Vehicles />
   <SummaryPriorities>
-    <TalentPriorities />
+    <TalentPriorities>
+      <Key>NOBFOOL</Key>
+      <Key>INTIM</Key>
+      <Key>CONV</Key>
+    </TalentPriorities>
     <ForcePriorities />
     <ObligPriorities />
-    <DutyPriorities />
+    <DutyPriorities>
+      <Key>POLITICALSUPPORT</Key>
+    </DutyPriorities>
   </SummaryPriorities>
   <Story>The planet Colstev, Jin-Rio’s home, is a smallish, rocky world in the Stewjon system. Most of the population lives in domed cities built into the craters that dot the planet’s surface. Colstev’s cities are large, cosmopolitan, and hotbeds of intellectualism, political rhetoric, and, according to people from the rest of Stewjon system, bossiness.
 
@@ -1892,7 +1914,7 @@ The Massacre of Zo-Ro, as it came to be known, was the watershed moment for Jin-
 
 Now, Jin-Rio serves attached to Special Operations, where she lends her expertise as a Political Advisor to high-ranking officers such as Arkhan Brem’tu. She also engages in field missions to destabilize Imperial control and apply political leverage to recalcitrant civilian governments. 
 </Story>
-  <Credits>750</Credits>
+  <Credits>450</Credits>
   <Morality>
     <Options>
       <Option>None</Option>

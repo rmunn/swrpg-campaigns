@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <Character xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <LastChanged>2016-01-30T01:07:23.04</LastChanged>
+  <LastChanged>2016-01-30T12:28:50.083</LastChanged>
   <NotPersisted>false</NotPersisted>
   <FileName>Char10.xml</FileName>
   <Name />
   <Key>1cf93d63-e4e9-46b2-9a0d-d1b1a1521bc3</Key>
   <Description>
     <CharName>Lowhhrick</CharName>
-    <PlayerName />
+    <PlayerName>Jono Du Preez</PlayerName>
     <GenderValue>cdgMale</GenderValue>
     <Age>34</Age>
     <Height>6'8"</Height>
@@ -312,7 +312,7 @@
           <Key>COM</Key>
           <Col>1</Col>
           <Row>2</Row>
-          <Purchased>false</Purchased>
+          <Purchased>true</Purchased>
           <Free>false</Free>
           <Ranks>0</Ranks>
           <BonusChars />
@@ -360,7 +360,7 @@
           <Key>GRIT</Key>
           <Col>1</Col>
           <Row>3</Row>
-          <Purchased>false</Purchased>
+          <Purchased>true</Purchased>
           <Free>false</Free>
           <Ranks>0</Ranks>
           <BonusChars />
@@ -1178,14 +1178,14 @@
         <ForChars>false</ForChars>
         <StartingRanks>0</StartingRanks>
         <SpeciesRanks>0</SpeciesRanks>
-        <CareerRanks>0</CareerRanks>
+        <CareerRanks>1</CareerRanks>
         <TalentRanks>0</TalentRanks>
         <ObligationRanks>0</ObligationRanks>
         <DutyRanks>0</DutyRanks>
         <AttachRanks>0</AttachRanks>
         <ItemRanks>0</ItemRanks>
         <CyberRanks>0</CyberRanks>
-        <PurchasedRanks>0</PurchasedRanks>
+        <PurchasedRanks>1</PurchasedRanks>
         <CharRanks>0</CharRanks>
         <InjuryRanks>0</InjuryRanks>
         <NonCareerRanks>0</NonCareerRanks>
@@ -1208,7 +1208,7 @@
         <ForChars>false</ForChars>
         <StartingRanks>0</StartingRanks>
         <SpeciesRanks>0</SpeciesRanks>
-        <CareerRanks>1</CareerRanks>
+        <CareerRanks>0</CareerRanks>
         <TalentRanks>0</TalentRanks>
         <ObligationRanks>0</ObligationRanks>
         <DutyRanks>0</DutyRanks>
@@ -1546,7 +1546,7 @@
       <DefWeaponRanks>0</DefWeaponRanks>
       <DefWeaponAttachRanks>0</DefWeaponAttachRanks>
     </ExperienceRanks>
-    <UsedExperience>125</UsedExperience>
+    <UsedExperience>170</UsedExperience>
   </Experience>
   <Attributes>
     <SoakValue>
@@ -1595,7 +1595,7 @@
       <StartingRanks>2</StartingRanks>
       <SpeciesRanks>8</SpeciesRanks>
       <CareerRanks>0</CareerRanks>
-      <TalentRanks>0</TalentRanks>
+      <TalentRanks>1</TalentRanks>
       <ObligationRanks>0</ObligationRanks>
       <DutyRanks>0</DutyRanks>
       <AttachRanks>0</AttachRanks>
@@ -1727,13 +1727,13 @@
     <StartingSpecKey>MERCENARY</StartingSpecKey>
     <CareerSkills>
       <Key>MELEE</Key>
-      <Key>RANGLT</Key>
       <Key>VIGIL</Key>
       <Key>ATHL</Key>
+      <Key>DISC</Key>
     </CareerSkills>
     <CareerSpecSkills>
       <Key>GUNN</Key>
-      <Key>DISC</Key>
+      <Key>RANGHVY</Key>
     </CareerSpecSkills>
   </Career>
   <Class>
@@ -1747,26 +1747,10 @@
   </Attitude>
   <Weapons>
     <CharWeapon>
-      <ItemKey>VIBAX</ItemKey>
-      <Key>25259fa7-db79-494d-9b85-89d070d97b49</Key>
+      <ItemKey>BOWCAST</ItemKey>
+      <Key>edef400e-5283-46e1-a34b-8b20a13d2f97</Key>
       <Equipped>true</Equipped>
       <Held>true</Held>
-      <Count>1</Count>
-      <PurchasedAttachments />
-      <AddlHP>0</AddlHP>
-      <Notes />
-      <Rename />
-      <Prioritize>false</Prioritize>
-      <HPPerItem>0</HPPerItem>
-      <TwoWeaponSets />
-      <Shown>true</Shown>
-      <Innate>false</Innate>
-    </CharWeapon>
-    <CharWeapon>
-      <ItemKey>BLASTPIS</ItemKey>
-      <Key>00d0eb08-3410-4078-9d2c-90d7583634ca</Key>
-      <Equipped>false</Equipped>
-      <Held>false</Held>
       <Count>1</Count>
       <PurchasedAttachments />
       <AddlHP>0</AddlHP>
@@ -1791,7 +1775,7 @@
       <Prioritize>false</Prioritize>
       <HPPerItem>0</HPPerItem>
       <TwoWeaponSets />
-      <Shown>false</Shown>
+      <Shown>true</Shown>
       <Innate>true</Innate>
     </CharWeapon>
   </Weapons>
@@ -1807,7 +1791,7 @@
       <AddlHP>0</AddlHP>
       <Notes />
       <Rename />
-      <Prioritize>false</Prioritize>
+      <Prioritize>true</Prioritize>
       <HPPerItem>0</HPPerItem>
     </CharGear>
     <CharGear>
@@ -1820,7 +1804,7 @@
       <AddlHP>0</AddlHP>
       <Notes />
       <Rename />
-      <Prioritize>false</Prioritize>
+      <Prioritize>true</Prioritize>
       <HPPerItem>0</HPPerItem>
     </CharGear>
     <CharGear>
@@ -1833,19 +1817,27 @@
       <AddlHP>0</AddlHP>
       <Notes />
       <Rename />
-      <Prioritize>false</Prioritize>
+      <Prioritize>true</Prioritize>
       <HPPerItem>0</HPPerItem>
     </CharGear>
   </Gear>
   <Vehicles />
   <SummaryPriorities>
-    <TalentPriorities />
+    <TalentPriorities>
+      <Key>COM</Key>
+      <Key>POINTBL</Key>
+      <Key>SECWIND</Key>
+      <Key>FLDCOMM</Key>
+      <Key>GRIT</Key>
+    </TalentPriorities>
     <ForcePriorities />
-    <ObligPriorities />
+    <ObligPriorities>
+      <Key>OATH</Key>
+    </ObligPriorities>
     <DutyPriorities />
   </SummaryPriorities>
   <Story />
-  <Credits>250</Credits>
+  <Credits>150</Credits>
   <Morality>
     <Options>
       <Option>None</Option>

@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <Character xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <LastChanged>2016-01-30T01:06:51.243</LastChanged>
+  <LastChanged>2016-01-30T12:17:11.387</LastChanged>
   <NotPersisted>false</NotPersisted>
   <FileName>Char9.xml</FileName>
   <Name />
   <Key>cd2c1785-eab7-4b4f-936b-4a9bd02972d3</Key>
   <Description>
     <CharName>Hesrani</CharName>
-    <PlayerName>Elizabeth</PlayerName>
+    <PlayerName>Elizabeth Munn</PlayerName>
     <GenderValue>cdgFemale</GenderValue>
     <Age>20</Age>
     <Height>5'3"</Height>
@@ -1811,7 +1811,7 @@
   <Armor>
     <CharArmor>
       <ItemKey>HC</ItemKey>
-      <Key>bc235970-0ffe-49fb-9e46-03009921eb07</Key>
+      <Key>ce647ace-1eae-4903-8f89-be93865f2463</Key>
       <Equipped>true</Equipped>
       <Held>true</Held>
       <Count>1</Count>
@@ -1826,7 +1826,7 @@
   <Gear>
     <CharGear>
       <ItemKey>COMLINKH</ItemKey>
-      <Key>16acad43-196d-4a8a-b230-b16d182b4627</Key>
+      <Key>09375eef-d02f-4fd2-91aa-c92c96120c78</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1839,7 +1839,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>MBIN</ItemKey>
-      <Key>c2274c15-fad7-438a-a233-ef7b45eaabc8</Key>
+      <Key>419aafbb-aad5-478e-b9ae-afd870fe0ef7</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1852,7 +1852,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>STIMPACK</ItemKey>
-      <Key>309df888-c80d-4991-862f-a0429d2795d6</Key>
+      <Key>e52bd307-fe06-46b8-9bae-9d2eaf414f2b</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>9</Count>
@@ -1865,7 +1865,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>BACKPACK</ItemKey>
-      <Key>51febc18-6d21-4063-a50c-9c4de4f96ca1</Key>
+      <Key>3bb8d3aa-7c19-4849-9dd9-99400457299a</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1878,7 +1878,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>DATAPAD</ItemKey>
-      <Key>bbb238ce-677d-4009-882a-12ed71b6f415</Key>
+      <Key>228e8910-b662-4396-a450-fe4b4bbc96e2</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1891,7 +1891,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>CLIMB</ItemKey>
-      <Key>179d3b3b-e983-4699-8917-26ec59c87e88</Key>
+      <Key>1dce61c4-81ca-4733-a4d3-cbe0596d0d5e</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1904,7 +1904,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>ERP</ItemKey>
-      <Key>80c8b0e5-e8a2-45fb-aad3-71716b6acf4b</Key>
+      <Key>14bed0c1-9c76-4271-b188-8840665a5561</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1917,7 +1917,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>TOOLKIT</ItemKey>
-      <Key>f00ba061-5df2-4750-bb68-888a11d44c80</Key>
+      <Key>de7a56f0-f18d-403e-aff2-412784f6efc5</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
@@ -1930,7 +1930,7 @@
     </CharGear>
     <CharGear>
       <ItemKey>UTILBELT</ItemKey>
-      <Key>9ebba2f5-f28e-4b90-a4e5-2407673697ac</Key>
+      <Key>52be8cb6-fa84-44f5-9023-b2dfc13a92ae</Key>
       <Equipped>false</Equipped>
       <Held>false</Held>
       <Count>1</Count>
