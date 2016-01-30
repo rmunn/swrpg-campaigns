@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Character xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <LastChanged>2016-01-30T01:06:35.643</LastChanged>
+  <LastChanged>2016-01-30T09:14:10.85</LastChanged>
   <NotPersisted>false</NotPersisted>
   <FileName>Char13.xml</FileName>
   <Name />
@@ -1880,7 +1880,33 @@
       <Key>273385e1-151e-430c-8c7d-c950c76cc0d5</Key>
       <Equipped>false</Equipped>
       <Held>true</Held>
-      <Count>3</Count>
+      <Count>5</Count>
+      <PurchasedAttachments />
+      <AddlHP>0</AddlHP>
+      <Notes />
+      <Rename />
+      <Prioritize>false</Prioritize>
+      <HPPerItem>0</HPPerItem>
+    </CharGear>
+    <CharGear>
+      <ItemKey>ERP</ItemKey>
+      <Key>5e2719ce-9b4d-4c7e-a014-e2b6af14ab44</Key>
+      <Equipped>false</Equipped>
+      <Held>false</Held>
+      <Count>1</Count>
+      <PurchasedAttachments />
+      <AddlHP>0</AddlHP>
+      <Notes />
+      <Rename />
+      <Prioritize>false</Prioritize>
+      <HPPerItem>0</HPPerItem>
+    </CharGear>
+    <CharGear>
+      <ItemKey>CONCREC</ItemKey>
+      <Key>fe4120cd-63bf-47d3-8791-12854c4d2de9</Key>
+      <Equipped>false</Equipped>
+      <Held>false</Held>
+      <Count>1</Count>
       <PurchasedAttachments />
       <AddlHP>0</AddlHP>
       <Notes />
@@ -1899,7 +1925,7 @@
   <Story>If Eurrsk ever wanted to be something other than an operative for the Bothan SpyNet, he doesn’t remember those days.  Much like the common stereotype of being born into the spy business, the majority of Eurrsk’s family has been involved with the SpyNet in some degree or another, with the roles played ranging from mission control to data-sifters.  While his mother and grandfather would have preferred that Eurrsk pursue a less hazardous vocation, his father saw the natural aptitude and quick wits that were the hallmarks of a field agent, and that assessment was proven to be an accurate one as the young Bothan took to work like a Corellian to barhopping. By the time he reached adulthood, Eurrsk had already successfully completed three field missions, having learned to make good use of his rather non-descript features; most people that have spotted him only recall “some Bothan” without being able to give concrete details about his appearance.
 
 While the SpyNet command advocates a course of general neutrality in regards to the Galactic Civil War, Eurrsk has found it increasingly difficult to follow that directive, particularly after the destruction of Alderaan and the growing number of Imperial atrocities that he’s learned of in the course of his duties.  While his first and foremost loyalty is to the SpyNet and the Bothan government, Eurrsk is not averse to providing useful tidbits of information to the Rebel Alliance through discrete channels and at a substantial discount.  So far, his actions have not drawn the attention of his superiors, thanks in no small part to the discretion employed on his part, though he’s not so foolish as to think for one moment that some of the greatest spymasters in the galaxy are unaware of his transgressions.  For Eurrsk, it may only be a matter of time before he’s forced to choose between loyalty to the SpyNet or aiding the Alliance, and that will certainly be an interesting day…</Story>
-  <Credits>400</Credits>
+  <Credits>300</Credits>
   <Morality>
     <Options>
       <Option>None</Option>
